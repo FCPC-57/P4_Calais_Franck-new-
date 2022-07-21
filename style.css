@@ -1050,3 +1050,24 @@ h4 {
     font-weight: bold;
     font-style: italic;
 }
+.portfolio__title-h2{
+    max-width: 42rem;
+    margin:auto;
+}
+.img-responsive{
+    margin: auto;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.btn-d{
+    color: #FFFFFF!important;
+}
+.black ,.icon-md{
+    color: #000000!important;
+}
+.bloc__title-h2{
+    max-width: 62rem;
+    margin: auto;
+}
