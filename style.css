@@ -1056,8 +1056,8 @@ h4 {
 }
 .img-responsive{
     margin: auto;
-    height: auto;
-    width: auto;
+    height: 320px;
+    width: 320px;
 }
 .flex{
     display: flex;
