@@ -1041,12 +1041,12 @@ h4 {
     }
 }
 
-.citation{
+.quote{
     font-size: 18px;
     max-width: 51rem;
     margin: auto;
 }
-.citation>span{
+.quote>span{
     font-weight: bold;
     font-style: italic;
 }
@@ -1072,4 +1072,14 @@ h4 {
 .bloc__title-h2{
     max-width: 62rem;
     margin: auto;
+}
+.gmaps {
+    display: flex;
+    justify-content: center;
+}
+.infos {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    text-align: center;
 }
